@@ -25,7 +25,7 @@ Class hatebo{
 		# finish
 	}
 	
-	# maiking list.... 2011/04/20 mugita
+	# maiking list...
 	function chooose()
 	{
 		## I need a list of someSite
