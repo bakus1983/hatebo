@@ -6,7 +6,7 @@ Class hatebo{
 	
 	function __construct($hatena_id=false,$hatena_pass=false)
 	{
-		if(!$hatena_id || $hatena_pass) exit("plz input id pass");
+		if(!$hatena_id || !$hatena_pass) exit("plz input id pass");
 		$this->start_booking();
 	}
 
